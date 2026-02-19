@@ -1,0 +1,43 @@
+{
+  "name": "ar-shoe-tryon",
+  "version": "1.0.0",
+  "description": "Browser-based AR virtual shoe try-on platform using MediaPipe and Three.js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ar",
+    "augmented-reality",
+    "mediapipe",
+    "three.js",
+    "pose-detection",
+    "retail",
+    "virtual-try-on",
+    "mobile",
+    "webgl"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "vite": "^7.3.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ar-shoe-tryon.git"
+  },
+  "homepage": "https://your-domain.com",
+  "bugs": {
+    "url": "https://github.com/your-username/ar-shoe-tryon/issues"
+  },
+  "dependencies": {
+    "three": "^0.183.0"
+  }
+}
